@@ -1,0 +1,19 @@
+google-generativeai  # (or the equivalent package you find)
+PyPDF2
+langchain
+langchain_community
+faiss-cpu  # Or faiss-gpu depending on your system
+python-dotenv
+openai  # In case you need OpenAI's models
+streamlit
+langchain-google-genai
+langchain-community
+faiss-cpu
+pillow
+flask
+flask-cors
+sentence_transformers
+selenium
+deep-translator
+gtts
+ollama

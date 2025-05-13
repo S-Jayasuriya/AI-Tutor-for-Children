@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.book{
+    height: 500px;
+    width: 700px;
+}
+.qn-box{
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+h3 {
+    margin: 20px;
+}
+.youtube {
+    overflow-x: hidden;   /* Allow horizontal scrolling only if necessary */
+    overflow-y: scroll; /* Always show vertical scrollbar */
+    white-space: pre-wrap; /* Preserve whitespace and wrap text */
+}
+.online-content {
+    padding: 5px;
+    overflow-x: hidden;   /* Allow horizontal scrolling only if necessary */
+    overflow-y: scroll; /* Always show vertical scrollbar */
+}

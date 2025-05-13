@@ -1,0 +1,48 @@
+.book_box{
+    /* background-color: black; */
+    position: relative;
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("./book_box.png");
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+    background-repeat: no-repeat;
+}
+.book_btn{
+    margin: 40px;
+    margin-top: 120px;
+    height: 40px;
+    width: 70px;
+    border-radius: 8px;
+    border: none;
+    transition-duration: 800ms;
+}
+.book_btn:hover {
+    background-color: rgb(12, 75, 20);
+    color: white;
+    height: 40px;
+    width: 80px;
+    margin-bottom: 30px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    color: black;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-btn:hover {
+    color: red;
+}
+p{
+    margin: 7px;
+    margin-left: 30px;
+}

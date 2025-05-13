@@ -1,0 +1,5 @@
+Flask
+selenium
+Flask-cors
+wikipedia
+pandas

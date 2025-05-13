@@ -1,0 +1,22 @@
+Step 1:
+open terminal and create a react app by using
+{
+    npx create-react-app my-app
+    cd my-app
+    npm start
+    //after suceessful build move all items out side the folder my-app and delete it
+}
+
+Step 2:
+Running all servers:
+
+1.npm start
+
+2.To run  node
+ cd node
+   node login.js
+   node pdf_upload.js
+
+3.To run  python
+ cd py
+   python App.py
